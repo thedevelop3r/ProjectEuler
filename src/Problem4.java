@@ -1,9 +1,3 @@
-/**
- * The LargesPalindrome class solves the LargestPalindrome puzzlers from Mrs.
- * Flynn's APCS puzzlers.
- * @author Robert James Meade
- * @version 0.1
- */
 public class Problem4
 {
 
