@@ -1,6 +1,5 @@
 public class Problem4
 {
-
 	/**
 	 * Generic main method
 	 * @param args Command Line Arguments
